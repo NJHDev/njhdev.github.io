@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/this_world_is_not_my_home
 google_file_code: 18XFoEPwDA8qH3qGSFKgZgSBoPi8zx6eq
 pdf_file_name: 죄 많은 이 세상은 내 집 아니네
-youtube_embed: -nu5IMs7b80?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: -nu5IMs7b80
 tags:
   - music
   - sheet

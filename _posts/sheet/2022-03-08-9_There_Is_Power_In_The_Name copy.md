@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/there_is_power_in_the_name
 google_file_code: 13VrQ8lBRrEbZuGQBKjMXWTElYrAueKeJ
 pdf_file_name: 주 이름 큰 능력 있도다
-youtube_embed: C3GRFNGhdbo?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: C3GRFNGhdbo
 tags:
   - music
   - sheet

@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/go_and_make_disciples
 google_file_code: 1z0zbyOvFeOSCSfc2_djxPHgGatsYKG9g
 pdf_file_name: 가서 제자 삼으라
-youtube_embed: bZc7ilIBmqg?start=262&autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: bZc7ilIBmqg
 tags:
   - music
   - sheet

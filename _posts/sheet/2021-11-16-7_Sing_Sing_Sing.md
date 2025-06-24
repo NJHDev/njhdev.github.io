@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/sing_sing_sing
 google_file_code: 1m04n33IVaWMXD82c2ezEGVZsA3J0SS4l
 pdf_file_name: 모두 찬양해
-youtube_embed: U65yD1Bd3HM?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: U65yD1Bd3HM
 tags:
   - music
   - sheet

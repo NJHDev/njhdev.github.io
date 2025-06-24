@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/blessed_be_the_rock
 google_file_code: 14p6VJKGJdLs-EXVMEh6GKm7v95gYtWxD
 pdf_file_name: 구원의 반석
-youtube_embed: 6GvmpTZmf7g?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: 6GvmpTZmf7g
 tags:
   - music
   - sheet

@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/god_came_to_light
 google_file_code: 1lDID5U34kOVISV2_SSer0soS1D6Qz0rr
 pdf_file_name: 빛으로 오신 예수님
-youtube_embed: j_cazfdFnCw?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: j_cazfdFnCw
 tags:
   - music
   - sheet

@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/there_shall_be_showers_of_blessing
 google_file_code: 1_hOd_2lcPmweFmdMsQbbDomKa3jLRxPl
 pdf_file_name: 빈들에 마른 풀 같이
-youtube_embed: uej4pbjEzLE?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: uej4pbjEzLE
 tags:
   - music
   - sheet

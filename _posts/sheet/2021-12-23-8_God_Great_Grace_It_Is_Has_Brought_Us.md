@@ -8,7 +8,7 @@ category: sheet
 permalink: /sheet/god_great_grace_it_is_has_brought_us
 google_file_code: 1-ooz0A_0HJmLgy8afzBdcn1_f-j3ZluJ
 pdf_file_name: 지금까지 지내온 것
-youtube_embed: TWSW7pP2PWE?autoplay=0&rel=0&vq=highres&modestbranding=1
+youtube_embed: TWSW7pP2PWE
 tags:
   - music
   - sheet
